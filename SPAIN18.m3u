@@ -1,0 +1,14 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cuatro 1280x720 (16:9) h264"  group-title="TDT",Cuatro 1280x720 (16:9) h264
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cuatro 640x360 (16:9)"  group-title="TDT",Cuatro 640x360 (16:9)
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Antena 3 720x404  h264"  group-title="TDT",Antena 3 720x404  h264
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="La 1  480x270 (16:9) h264"  group-title="TDT",La 1  480x270 (16:9) h264
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
