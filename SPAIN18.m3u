@@ -6,7 +6,7 @@ http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/str
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cuatro 640x360 (16:9)"  group-title="TDT",Cuatro 640x360 (16:9)
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 
-#EXTINF:0, tvg-id="antena3.es" tvg-logo="Logo N/A" tvg-name="Antena 3 720x404  h264"  group-title="TDT",Antena 3 720x404  h264
+#EXTINF:0, tvg-id="Antena 3" tvg-logo="Logo N/A" tvg-name="Antena 3 720x404  h264"  group-title="TDT",Antena 3 720x404  h264
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="La 1  480x270 (16:9) h264"  group-title="TDT",La 1  480x270 (16:9) h264
