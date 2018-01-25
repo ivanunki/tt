@@ -15,78 +15,9 @@ http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/str
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.thelogodb.com/images/media/logo/j8x21w1495137931.png" tvg-name="La Sexta 720x404(180:101) h264"  group-title="TDT",La Sexta 720x404(180:101) h264
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="eitb.eus"  group-title="Temporal",eitb.eus
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="eitb.eus",eitb.eus
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:LA 1 HD"  group-title="Temporal",ES:LA 1 HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2699.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: LA 2 HD"  group-title="Temporal",ES: LA 2 HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2700.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:CUATRO HD"  group-title="Temporal",ES:CUATRO HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2713.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:LA SEXTA HD"  group-title="Temporal",ES:LA SEXTA HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2698.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:NATIONAL GEOGRAPHIC HD"  group-title="Temporal",ES:NATIONAL GEOGRAPHIC HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2702.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:NAT GEO WILD HD"  group-title="Temporal",ES:NAT GEO WILD HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2701.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: DISCOVERY"  group-title="Temporal",ES: DISCOVERY
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2704.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:DISCOVERY CHANNEL HD"  group-title="Temporal",ES:DISCOVERY CHANNEL HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2703.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: ODISEA HD"  group-title="Temporal",ES: ODISEA HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2727.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: CANAL COCINA"  group-title="Temporal",ES: CANAL COCINA
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5425.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:Canal  LIGA HD"  group-title="Temporal",ES:Canal  LIGA HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2690.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:Canal  LIGA 2 HD"  group-title="Temporal",ES:Canal  LIGA 2 HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2691.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:Canal  FUTBOL HD"  group-title="Temporal",ES:Canal  FUTBOL HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2692.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:Canal  DEPORTES HD"  group-title="Temporal",ES:Canal  DEPORTES HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2693.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES:Canal  DEPORTES 2 HD"  group-title="Temporal",ES:Canal  DEPORTES 2 HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2694.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: GOL Tv"  group-title="Temporal",ES: GOL Tv
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5421.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: Bein Sport HD"  group-title="Temporal",ES: Bein Sport HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5422.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: Bein Liga HD"  group-title="Temporal",ES: Bein Liga HD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5423.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VIP ES: Bein Sports HD ( 1080P )"  group-title="Temporal",VIP ES: Bein Sports HD ( 1080P )
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/6724.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: beIN LA Liga FHD"  group-title="Temporal",ES: beIN LA Liga FHD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/8677.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: beIN Laliga 1 HD Backup"  group-title="Temporal",ES: beIN Laliga 1 HD Backup
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/8676.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: Movistar Partidazo HD (event only)"  group-title="Temporal",ES: Movistar Partidazo HD (event only)
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/8807.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES: beIN Sport FHD"  group-title="Temporal",ES: beIN Sport FHD
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/11776.ts
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ES : movistar Futbol"  group-title="Temporal",ES : movistar Futbol
-http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/3068.ts
+#EXTINF:-1,NatGeo Wild America Latina
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
 
