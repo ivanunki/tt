@@ -3,9 +3,6 @@
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png" tvg-name="La 1  rtve.es"  group-title="TDT",La 1  rtve.es
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://www.thelogodb.com/images/media/logo/tpsvvr1441658102.png" tvg-name="La 2 rtve.es"  group-title="TDT",La 2 rtve.es
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.thelogodb.com/images/media/logo/6a5r2f1492908869.png" tvg-name="Antena 3 720x404  h264"  group-title="TDT",Antena 3 720x404  h264
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
@@ -15,9 +12,41 @@ http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/str
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.thelogodb.com/images/media/logo/j8x21w1495137931.png" tvg-name="La Sexta 720x404(180:101) h264"  group-title="TDT",La Sexta 720x404(180:101) h264
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="eitb.eus",eitb.eus
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="eitb.eus"  group-title="Group N/A",eitb.eus
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1,NatGeo Wild America Latina
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSports La Liga"  group-title="FUTBOL",BeinSports La Liga
+http://185.231.160.42/607/1/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Liga"  group-title="FUTBOL",La Liga
+http://185.231.160.42/614/1/index.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="BeinSports"  group-title="FUTBOL",BeinSports
+http://185.231.160.42/598/1/index.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Movistar Futbol"  group-title="FUTBOL",Movistar Futbol
+http://185.231.160.42/608/1/index.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="NatGeo Wild"  group-title="DOCU",NatGeo Wild
+http://66.70.177.196:25461/live/gatotv/gatotv/42.ts
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="NatGeo"  group-title="DOCU",NatGeo
+http://66.70.177.196:25461/live/gatotv/gatotv/13.ts
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Movistar DCine"  group-title="CINE",Movistar DCine
+http://185.231.160.42/646/2/index.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="HBO"  group-title="CINE",HBO
+http://66.70.177.196:25461/live/gatotv/gatotv/169.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Fox Action"  group-title="CINE",Fox Action
+http://66.70.177.196:25461/live/gatotv/gatotv/28.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Panico"  group-title="CINE",Panico
+https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="" tvg-name="Cinema Platino"  group-title="CINE",Cinema Platino
+https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
+
+
 
