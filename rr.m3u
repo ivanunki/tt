@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Movistar DCine"  group-title="CINE",Movistar DCine
+http://185.231.160.42/646/2/index.m3u8
+
 #EXTINF:-1,Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
