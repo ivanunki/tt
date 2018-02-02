@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="https://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png" tvg-name="La 1"  group-title="TDT",La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
