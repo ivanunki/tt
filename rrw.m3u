@@ -1,3 +1,25 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="https://www.thelogodb.com/images/media/logo/rwwwxv1441657735.png" tvg-name="La 1"  group-title="TDT",La 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1,Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,Nuart
+http://78.111.176.132:8080
+
+#EXTINF:-1,Olala
+http://78.111.176.132:8082 
+
+#EXTINF:-1,Dusk
+http://37.9.0.201:8890 
+
+#EXTINF:-1,CentoXcentotv
+http://37.9.0.201:8811 
+
+#EXTINF:-1,Sex Fone
+http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
+
+#EXTINF:-1,Xtsy
+http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529cf8c88a46389b2dd84/1506693452661/channel-71/1/515.m3u8
+
+#EXTINF:-1,Venus
+http://144.217.254.99:25461/live/Danone2016/Danonedanone40/2649.ts
