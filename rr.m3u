@@ -1,3 +1,27 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Movistar DCine"  group-title="CINE",Movistar DCine
-http://185.231.160.42/646/2/index.m3u8
+#EXTINF:-1,Fox Latino
+http://hla8aovrrhra947.llave2.tk/f0x_mx-q4.php?.m3u8
+
+#EXTINF:-1,Fx Latino
+http://hla8aovrrhra947.llave2.tk/fx_mx-q4.php?.m3u8
+
+#EXTINF:-1,Warner Channel Latino
+http://hla8aovrrhra947.llave2.tk/warner-q4.php?.m3u8
+
+#EXTINF:-1,Discovery World Latino
+http://hla8aovrrhra947.llave2.tk/disc_world-q4.php?.m3u8
+
+#EXTINF:-1,Animal Planet Latino
+http://hla8aovrrhra947.llave2.tk/anim_planet-q4.php?.m3u8
+
+#EXTINF:-1,NatGeo Latino
+http://hla8aovrrhra947.llave2.tk/natgeo_mx-q4.php?.m3u8
+
+#EXTINF:-1,NatGeo Wild Latino
+http://hla8aovrrhra947.llave2.tk/natgeo_wild_mx-q4.php?.m3u8
+
+#EXTINF:-1,Discovery Channel latino
+http://hla8aovrrhra947.llave2.tk/disc_ch-q4.php?.m3u8
+
+#EXTINF:-1,Discovery H&H Latino
+http://hla8aovrrhra947.llave2.tk/disc_hh-q4.php?.m3u8
